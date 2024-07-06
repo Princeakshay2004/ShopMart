@@ -1,0 +1,14 @@
+.primary-background{
+	background: #4D869C!important;
+}
+
+body{
+	background: #EEF7FF;
+}
+.admin .card-body:hover{
+
+	background-color: #e2e2e2;
+}
+body::-webkit-scrollbar {
+	display: none;
+}
